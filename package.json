@@ -14,6 +14,7 @@
     "@material-ui/core": "^4.12.4",
     "@mui/icons-material": "^5.8.0",
     "@mui/material": "^5.8.1",
+    "axios": "^0.27.2",
     "js-cookie": "^3.0.1",
     "mongoose": "^6.3.4",
     "next": "12.1.6",
