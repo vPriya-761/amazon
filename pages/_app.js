@@ -1,4 +1,3 @@
-import { Store } from '@mui/icons-material';
 import { useEffect } from 'react';
 import '../styles/globals.css'
 import { StoreProvider } from '../utils/Store';
