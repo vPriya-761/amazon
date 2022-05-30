@@ -29,7 +29,9 @@ const data = {
       },
       {
         name: 'Slim Shirt',
-        slug: 'slim-shirt', 
+        slug: 'slim-shirt',
+        category: 'Pants',
+ 
         image: '/images/shirt3.jpg',
         price: 90,
         brand: 'Raymond',
@@ -51,7 +53,9 @@ const data = {
       },
       {
         name: 'Fit Pants',
-        slug: 'fit-pants', 
+        slug: 'fit-pants',
+        category: 'Pants',
+ 
         image: '/images/pants2.jpg',
         price: 95,
         brand: 'Zara',
@@ -63,6 +67,8 @@ const data = {
       {
         name: 'Classic Pants',
         slug: 'classic-pants', 
+        category: 'Pants',
+
         image: '/images/pants3.jpg',
         price: 75,
         brand: 'Casely',
